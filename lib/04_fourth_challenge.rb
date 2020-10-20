@@ -8,7 +8,7 @@ def fourth_challenge
         #your hashes here!
         first_friend = {
           :name => "Benvolio",
-          :age => "17"
+          :age => "17",
           :attitude => "worried"
         },
         second_friend = {
